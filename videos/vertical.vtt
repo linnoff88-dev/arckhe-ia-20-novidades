@@ -1,0 +1,1218 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:04.220
+Vinte novidades de IA desta semana, cada uma demonstrada.
+
+2
+00:00:04.525 --> 00:00:04.745
+em dez minutos.
+
+3
+00:00:04.745 --> 00:00:06.565
+Tem o Claude dentro do Google Docs,
+
+4
+00:00:06.565 --> 00:00:08.725
+o Claude criando dashboards e animações com
+
+5
+00:00:08.725 --> 00:00:11.065
+uma barra, a OpenAI montando interfaces na
+
+6
+00:00:11.065 --> 00:00:13.045
+hora, o gateway de MCP da Uber,
+
+7
+00:00:13.045 --> 00:00:13.685
+e no fim,
+
+8
+00:00:13.685 --> 00:00:15.445
+um site feito com IA
+
+9
+00:00:15.445 --> 00:00:16.985
+que juntou cento e quarenta e três
+
+10
+00:00:16.985 --> 00:00:18.985
+mil pessoas ao mesmo tempo numa noite.
+
+11
+00:00:18.985 --> 00:00:20.005
+Vamos direto.
+
+12
+00:00:20.005 --> 00:00:20.285
+Um.
+
+13
+00:00:20.285 --> 00:00:22.385
+O Claude agora trabalha dentro do Google
+
+14
+00:00:22.385 --> 00:00:24.325
+Docs, do Sheets e do Slides.
+
+15
+00:00:24.325 --> 00:00:26.025
+Ele fica numa barra lateral,
+
+16
+00:00:26.025 --> 00:00:27.245
+à direita do arquivo,
+
+17
+00:00:27.245 --> 00:00:28.845
+lê o que está aberto e edita
+
+18
+00:00:28.845 --> 00:00:29.245
+ali mesmo.
+
+19
+00:00:29.245 --> 00:00:31.445
+E você aprova cada mudança antes de
+
+20
+00:00:31.445 --> 00:00:31.985
+ela entrar.
+
+21
+00:00:31.985 --> 00:00:33.305
+Na planilha, por exemplo,
+
+22
+00:00:33.305 --> 00:00:35.585
+você pede: destaque as vendas abaixo da
+
+23
+00:00:35.585 --> 00:00:37.345
+meta e faça um resumo numa aba
+
+24
+00:00:37.345 --> 00:00:37.805
+nova.
+
+25
+00:00:37.805 --> 00:00:40.265
+Ele faz, você confere e aceita.
+
+26
+00:00:40.265 --> 00:00:41.405
+O curioso é o lugar:
+
+27
+00:00:41.405 --> 00:00:42.805
+é justamente onde ficaria o Gemini,
+
+28
+00:00:42.805 --> 00:00:44.935
+dentro da casa do Google.
+
+29
+00:00:44.935 --> 00:00:45.345
+Dois.
+
+30
+00:00:45.345 --> 00:00:46.365
+Em oito de outubro,
+
+31
+00:00:46.365 --> 00:00:48.245
+a Anthropic lançou três recursos que você
+
+32
+00:00:48.245 --> 00:00:49.185
+chama com uma barra,
+
+33
+00:00:49.185 --> 00:00:50.385
+direto na conversa.
+
+34
+00:00:50.385 --> 00:00:52.445
+Barra motion transforma texto,
+
+35
+00:00:52.445 --> 00:00:54.245
+conceito e gráfico em animação,
+
+36
+00:00:54.245 --> 00:00:56.385
+e exporta em MP4.
+
+37
+00:00:56.425 --> 00:00:57.805
+Não é filmagem realista:
+
+38
+00:00:57.805 --> 00:00:59.745
+ele anima elementos com código.
+
+39
+00:00:59.745 --> 00:01:02.205
+Barra dashboard cria painéis com indicadores,
+
+40
+00:01:02.205 --> 00:01:03.225
+tabelas e gráficos,
+
+41
+00:01:03.225 --> 00:01:04.805
+e pode se ligar a fontes como
+
+42
+00:01:04.805 --> 00:01:06.945
+BigQuery, Snowflake e Salesforce,
+
+43
+00:01:06.945 --> 00:01:08.885
+para os números ficarem atualizados.
+
+44
+00:01:08.885 --> 00:01:10.885
+E barra design cria peças gráficas,
+
+45
+00:01:10.885 --> 00:01:12.605
+banners e layouts editáveis.
+
+46
+00:01:12.605 --> 00:01:14.805
+Para usar, abra o claude ponto ai,
+
+47
+00:01:14.805 --> 00:01:16.245
+digite barra e escolha.
+
+48
+00:01:16.245 --> 00:01:17.885
+Por exemplo: barra motion,
+
+49
+00:01:17.885 --> 00:01:19.305
+uma animação de trinta segundos,
+
+50
+00:01:19.305 --> 00:01:20.765
+em dezesseis por nove,
+
+51
+00:01:20.765 --> 00:01:22.545
+explicando como os agentes vão mudar o
+
+52
+00:01:22.545 --> 00:01:23.465
+trabalho dos gestores,
+
+53
+00:01:23.465 --> 00:01:25.085
+com fundo escuro e dourado,
+
+54
+00:01:25.085 --> 00:01:26.825
+exportada em MP4.
+
+55
+00:01:26.825 --> 00:01:28.185
+Ou barra dashboard,
+
+56
+00:01:28.185 --> 00:01:29.545
+um painel de assinantes,
+
+57
+00:01:29.545 --> 00:01:31.725
+receita e cancelamentos dos últimos doze meses,
+
+58
+00:01:31.725 --> 00:01:33.605
+com os dados da planilha anexada,
+
+59
+00:01:33.605 --> 00:01:34.645
+sem inventar números.
+
+60
+00:01:34.645 --> 00:01:35.885
+Ou barra design,
+
+61
+00:01:35.885 --> 00:01:37.365
+uma thumbnail com a frase:
+
+62
+00:01:37.365 --> 00:01:38.925
+os agentes mudaram tudo.
+
+63
+00:01:38.925 --> 00:01:39.985
+Sobre os planos:
+
+64
+00:01:39.985 --> 00:01:41.245
+o design está em todos,
+
+65
+00:01:41.245 --> 00:01:41.965
+até no Free.
+
+66
+00:01:41.965 --> 00:01:44.025
+O dashboard, nos planos pagos,
+
+67
+00:01:44.025 --> 00:01:44.652
+em beta.
+
+68
+00:01:44.652 --> 00:01:45.385
+E o motion,
+
+69
+00:01:45.385 --> 00:01:46.745
+no Team e no Enterprise,
+
+70
+00:01:46.745 --> 00:01:47.925
+também em beta.
+
+71
+00:01:47.925 --> 00:01:48.805
+Se não aparecer,
+
+72
+00:01:48.805 --> 00:01:50.398
+procure em Settings,
+
+73
+00:01:50.398 --> 00:01:50.765
+Capabilities.
+
+74
+00:01:50.765 --> 00:01:51.425
+E o melhor:
+
+75
+00:01:51.425 --> 00:01:53.325
+dá para encadear os três.
+
+76
+00:01:53.325 --> 00:01:54.585
+O dashboard analisa os dados,
+
+77
+00:01:54.585 --> 00:01:55.945
+o design prepara o visual,
+
+78
+00:01:55.945 --> 00:01:58.105
+e o motion transforma a explicação em
+
+79
+00:01:58.105 --> 00:01:59.125
+vídeo.
+
+80
+00:01:59.125 --> 00:01:59.905
+Três.
+
+81
+00:01:59.905 --> 00:02:02.465
+A OpenAI respondeu com a Intelligent UI
+
+82
+00:02:02.465 --> 00:02:03.445
+no
+
+83
+00:02:03.445 --> 00:02:03.925
+ChatGPT.
+
+84
+00:02:03.925 --> 00:02:05.165
+Em vez de texto,
+
+85
+00:02:05.165 --> 00:02:06.985
+o chat monta uma interface na hora,
+
+86
+00:02:06.985 --> 00:02:08.085
+só para aquele pedido.
+
+87
+00:02:08.085 --> 00:02:09.345
+No vídeo de lançamento,
+
+88
+00:02:09.345 --> 00:02:11.605
+uma pessoa trava num manual de montagem,
+
+89
+00:02:11.605 --> 00:02:14.265
+pede ajuda, e o ChatGPT gera um
+
+90
+00:02:14.265 --> 00:02:15.545
+passo a passo interativo,
+
+91
+00:02:15.545 --> 00:02:17.665
+como um mini software descartável.
+
+92
+00:02:17.665 --> 00:02:19.205
+Antes isso era caro demais.
+
+93
+00:02:19.205 --> 00:02:20.265
+Com os modelos novos,
+
+94
+00:02:20.265 --> 00:02:21.325
+ficou rápido e barato,
+
+95
+00:02:21.325 --> 00:02:22.365
+e a gente vai ver isso em
+
+96
+00:02:22.365 --> 00:02:23.235
+todo lugar.
+
+97
+00:02:23.235 --> 00:02:23.725
+Quatro.
+
+98
+00:02:23.725 --> 00:02:25.585
+O Andrej Karpathy escreveu que a gente
+
+99
+00:02:25.585 --> 00:02:27.125
+passa cada vez mais tempo lendo o
+
+100
+00:02:27.125 --> 00:02:28.145
+que os modelos respondem.
+
+101
+00:02:28.145 --> 00:02:29.125
+A sugestão dele:
+
+102
+00:02:29.125 --> 00:02:31.145
+pedir a resposta em outro formato.
+
+103
+00:02:31.145 --> 00:02:34.045
+Diagrama, imagem, página HTML,
+
+104
+00:02:34.445 --> 00:02:35.725
+vídeo explicativo.
+
+105
+00:02:35.725 --> 00:02:37.485
+Teste hoje: em vez de pedir um
+
+106
+00:02:37.485 --> 00:02:38.285
+plano em texto,
+
+107
+00:02:38.285 --> 00:02:40.625
+peça o plano numa página HTML
+
+108
+00:02:40.625 --> 00:02:42.445
+com etapas clicáveis.
+
+109
+00:02:42.445 --> 00:02:44.285
+Fica muito mais fácil de ler e
+
+110
+00:02:44.285 --> 00:02:45.325
+de revisar.
+
+111
+00:02:45.325 --> 00:02:45.845
+Cinco.
+
+112
+00:02:45.845 --> 00:02:48.665
+A internet encheu de animações feitas só
+
+113
+00:02:48.665 --> 00:02:50.645
+com o Opus cinco ponto cinco,
+
+114
+00:02:50.645 --> 00:02:51.465
+sem nenhuma skill.
+
+115
+00:02:51.465 --> 00:02:53.415
+Já existe uma biblioteca com mais de
+
+116
+00:02:53.415 --> 00:02:54.285
+quinhentos vídeos assim,
+
+117
+00:02:54.285 --> 00:02:55.905
+e cada um vem com o prompt
+
+118
+00:02:55.905 --> 00:02:56.705
+para copiar.
+
+119
+00:02:56.705 --> 00:02:57.585
+A minha leitura:
+
+120
+00:02:57.585 --> 00:02:59.425
+o formato vai saturar rápido.
+
+121
+00:02:59.425 --> 00:03:00.965
+Então a janela é agora,
+
+122
+00:03:00.965 --> 00:03:03.495
+principalmente fora da bolha de tecnologia.
+
+123
+00:03:03.495 --> 00:03:04.125
+Seis.
+
+124
+00:03:04.125 --> 00:03:04.985
+No Claude Code,
+
+125
+00:03:04.985 --> 00:03:07.425
+os subagentes agora aceitam nível de esforço,
+
+126
+00:03:07.425 --> 00:03:08.205
+além do modelo.
+
+127
+00:03:08.205 --> 00:03:10.825
+Cada subagente começa com contexto limpo e
+
+128
+00:03:10.825 --> 00:03:12.065
+devolve só a resposta,
+
+129
+00:03:12.065 --> 00:03:13.745
+então a sessão principal não enche.
+
+130
+00:03:13.745 --> 00:03:16.245
+Exemplo: um subagente com esforço baixo encontra
+
+131
+00:03:16.245 --> 00:03:18.085
+todas as chamadas da API de pagamento,
+
+132
+00:03:18.085 --> 00:03:19.625
+e outro, com esforço alto,
+
+133
+00:03:19.625 --> 00:03:20.965
+revisa o tratamento de erros.
+
+134
+00:03:20.965 --> 00:03:22.305
+Barato onde dá,
+
+135
+00:03:22.305 --> 00:03:24.195
+caprichado onde precisa.
+
+136
+00:03:24.195 --> 00:03:24.645
+Sete.
+
+137
+00:03:24.645 --> 00:03:26.705
+Os mods do Claude Code deixam você
+
+138
+00:03:26.705 --> 00:03:27.865
+mudar a própria interface.
+
+139
+00:03:27.865 --> 00:03:29.805
+O exemplo do time é o You
+
+140
+00:03:29.805 --> 00:03:31.805
+Should Know: um segundo Claude lê a
+
+141
+00:03:31.805 --> 00:03:33.325
+saída do primeiro e avisa,
+
+142
+00:03:33.325 --> 00:03:34.125
+num painel pequeno,
+
+143
+00:03:34.125 --> 00:03:35.485
+o que você poderia deixar passar.
+
+144
+00:03:35.485 --> 00:03:37.765
+A gente testou dezoito mods em português,
+
+145
+00:03:37.765 --> 00:03:39.825
+e eles estão abertos no inema mods.
+
+146
+00:03:39.825 --> 00:03:40.065
+Oito.
+
+147
+00:03:40.065 --> 00:03:42.125
+O Claude agora pode rodar a sessão
+
+148
+00:03:42.125 --> 00:03:43.405
+nos servidores da Anthropic,
+
+149
+00:03:43.405 --> 00:03:45.405
+mesmo com o seu computador fechado,
+
+150
+00:03:45.405 --> 00:03:47.185
+e mexer numa pasta local que você
+
+151
+00:03:47.185 --> 00:03:49.045
+aprovar, quando a máquina está ligada.
+
+152
+00:03:49.045 --> 00:03:51.065
+Mas atenção: fechou o computador,
+
+153
+00:03:51.065 --> 00:03:52.132
+a parte local para.
+
+154
+00:03:52.132 --> 00:03:53.925
+Para agente trabalhando vinte e quatro horas,
+
+155
+00:03:53.925 --> 00:03:55.725
+uma VPS ainda é o caminho mais
+
+156
+00:03:55.725 --> 00:03:56.325
+firme.
+
+157
+00:03:56.585 --> 00:03:56.885
+Nove.
+
+158
+00:03:56.885 --> 00:03:58.065
+Um truque útil:
+
+159
+00:03:58.065 --> 00:04:00.905
+o Claude Code chama a CLI do
+
+160
+00:04:00.905 --> 00:04:03.145
+Codex para gerar imagens com o GPT.
+
+161
+00:04:03.145 --> 00:04:05.565
+A imagem sai pela assinatura do ChatGPT,
+
+162
+00:04:05.565 --> 00:04:07.325
+sem custo por imagem e sem abrir
+
+163
+00:04:07.325 --> 00:04:08.105
+o ChatGPT.
+
+164
+00:04:08.105 --> 00:04:09.425
+A gente usa isso aqui todo dia,
+
+165
+00:04:09.425 --> 00:04:11.485
+para capas e ilustrações.
+
+166
+00:04:11.485 --> 00:04:12.065
+Dez.
+
+167
+00:04:12.065 --> 00:04:14.005
+Dentro do app do ChatGPT para Mac
+
+168
+00:04:14.005 --> 00:04:15.725
+existe um MCP local que expõe o
+
+169
+00:04:15.725 --> 00:04:16.825
+computer use do Codex.
+
+170
+00:04:16.825 --> 00:04:18.825
+Com ele, o Claude Code controla o
+
+171
+00:04:18.825 --> 00:04:21.245
+computador usando o computer use do Codex,
+
+172
+00:04:21.245 --> 00:04:22.745
+que hoje ainda é melhor nisso,
+
+173
+00:04:22.745 --> 00:04:24.185
+sem sair da sessão do Claude.
+
+174
+00:04:24.185 --> 00:04:26.365
+Cada modelo faz o que faz melhor.
+
+175
+00:04:26.365 --> 00:04:26.745
+Onze.
+
+176
+00:04:26.745 --> 00:04:28.885
+Um dos responsáveis pelo Codex prometeu,
+
+177
+00:04:28.885 --> 00:04:29.725
+no dia quatro:
+
+178
+00:04:29.725 --> 00:04:31.025
+em vinte e oito dias,
+
+179
+00:04:31.025 --> 00:04:33.005
+ou chega uma melhoria clara no Codex,
+
+180
+00:04:33.005 --> 00:04:34.825
+ou um reset dos limites de uso.
+
+181
+00:04:34.825 --> 00:04:36.545
+O prazo vence no começo de novembro.
+
+182
+00:04:36.545 --> 00:04:38.115
+Vale marcar no calendário.
+
+183
+00:04:38.115 --> 00:04:38.405
+Doze.
+
+184
+00:04:38.405 --> 00:04:41.065
+A Uber montou um gateway de MCP
+
+185
+00:04:41.065 --> 00:04:42.465
+para os agentes da empresa.
+
+186
+00:04:42.465 --> 00:04:45.185
+São mais de oitocentos servidores MCP e
+
+187
+00:04:45.185 --> 00:04:46.485
+mais de cinco mil ferramentas,
+
+188
+00:04:46.485 --> 00:04:48.105
+com governança: quem usa o quê,
+
+189
+00:04:48.105 --> 00:04:49.085
+com qual permissão,
+
+190
+00:04:49.085 --> 00:04:49.925
+e o histórico.
+
+191
+00:04:49.925 --> 00:04:51.405
+E um detalhe que vale para qualquer
+
+192
+00:04:51.405 --> 00:04:53.345
+empresa: com tanta ferramenta,
+
+193
+00:04:53.345 --> 00:04:54.525
+o agente se perdia.
+
+194
+00:04:54.525 --> 00:04:56.365
+A solução foi uma camada na frente
+
+195
+00:04:56.365 --> 00:04:58.685
+que descobre qual ferramenta serve e carrega
+
+196
+00:04:58.685 --> 00:05:00.785
+só essa, antes de o agente agir.
+
+197
+00:05:00.785 --> 00:05:01.225
+Treze.
+
+198
+00:05:01.225 --> 00:05:03.225
+Boris Cherny, um dos criadores do Claude
+
+199
+00:05:03.225 --> 00:05:04.785
+Code, diz que fala com o Claude
+
+200
+00:05:04.785 --> 00:05:06.765
+como falaria com um colega de trabalho.
+
+201
+00:05:06.765 --> 00:05:08.565
+Três coisas: o que você quer,
+
+202
+00:05:08.565 --> 00:05:10.625
+quanto esforço gastar e como conferir que
+
+203
+00:05:10.625 --> 00:05:11.185
+deu certo.
+
+204
+00:05:11.185 --> 00:05:12.885
+O segredo não é o prompt gigante,
+
+205
+00:05:12.885 --> 00:05:14.285
+é o ambiente organizado:
+
+206
+00:05:14.285 --> 00:05:16.085
+pastas, arquivos e regras.
+
+207
+00:05:16.085 --> 00:05:17.545
+E ele mostrou o resultado:
+
+208
+00:05:17.545 --> 00:05:20.125
+um prompt curto gerou um artefato interativo,
+
+209
+00:05:20.125 --> 00:05:22.445
+com ilustrações em aquarela e gráficos que
+
+210
+00:05:22.445 --> 00:05:23.612
+reagem ao cursor.
+
+211
+00:05:23.612 --> 00:05:24.098
+Catorze.
+
+212
+00:05:24.098 --> 00:05:26.085
+Garry Tan, da Y Combinator,
+
+213
+00:05:26.085 --> 00:05:28.705
+resumiu: quase todo trabalho de conhecimento agora
+
+214
+00:05:28.705 --> 00:05:29.525
+vira agente.
+
+215
+00:05:29.525 --> 00:05:31.245
+Você escreve a skill em markdown,
+
+216
+00:05:31.245 --> 00:05:32.265
+cria uma rotina,
+
+217
+00:05:32.265 --> 00:05:33.405
+e ela roda no horário.
+
+218
+00:05:33.405 --> 00:05:34.425
+A gente faz isso aqui:
+
+219
+00:05:34.425 --> 00:05:36.545
+o finviral monta o radar financeiro sozinho,
+
+220
+00:05:36.545 --> 00:05:38.385
+toda madrugada, e publica no canal.
+
+221
+00:05:38.385 --> 00:05:39.165
+É uma skill,
+
+222
+00:05:39.165 --> 00:05:41.245
+um horário e um teste no fim.
+
+223
+00:05:41.245 --> 00:05:41.725
+Quinze.
+
+224
+00:05:41.725 --> 00:05:43.985
+A Anthropic abriu o Claude for Startups:
+
+225
+00:05:43.985 --> 00:05:46.505
+créditos de API e contas Claude Team
+
+226
+00:05:46.505 --> 00:05:47.365
+para empresas novas,
+
+227
+00:05:47.365 --> 00:05:48.805
+e muita gente no Brasil já foi
+
+228
+00:05:48.805 --> 00:05:49.325
+aprovada.
+
+229
+00:05:49.325 --> 00:05:51.085
+Um cuidado: leia os termos.
+
+230
+00:05:51.085 --> 00:05:53.125
+O que você faz nessas contas gratuitas
+
+231
+00:05:53.125 --> 00:05:54.825
+pode ser usado pela Anthropic,
+
+232
+00:05:54.825 --> 00:05:56.975
+inclusive para treinar modelos.
+
+233
+00:05:56.975 --> 00:05:57.405
+Dezesseis.
+
+234
+00:05:57.405 --> 00:05:59.805
+A OpenAI lançou a Decisions API,
+
+235
+00:05:59.805 --> 00:06:01.905
+um classificador mais barato e mais rápido
+
+236
+00:06:01.905 --> 00:06:03.485
+do que chamar um modelo de linguagem
+
+237
+00:06:03.485 --> 00:06:04.325
+para decidir.
+
+238
+00:06:04.325 --> 00:06:05.665
+Ela aceita imagem,
+
+239
+00:06:05.665 --> 00:06:06.805
+o que o Jev não aceita.
+
+240
+00:06:06.805 --> 00:06:08.365
+Mas, na maioria dos casos,
+
+241
+00:06:08.365 --> 00:06:09.985
+o Jev ainda sai mais barato e
+
+242
+00:06:09.985 --> 00:06:10.705
+mais rápido.
+
+243
+00:06:10.705 --> 00:06:12.305
+Para filtrar mensagens de um grupo,
+
+244
+00:06:12.305 --> 00:06:14.905
+por exemplo, um classificador assim troca um
+
+245
+00:06:14.905 --> 00:06:15.665
+modelo inteiro.
+
+246
+00:06:15.665 --> 00:06:17.325
+A gente fez um vídeo só comparando
+
+247
+00:06:17.325 --> 00:06:18.115
+os dois.
+
+248
+00:06:18.115 --> 00:06:18.625
+Dezessete.
+
+249
+00:06:18.625 --> 00:06:21.145
+Já existem repositórios que recebem um aplicativo
+
+250
+00:06:21.145 --> 00:06:24.245
+sem o código-fonte e usam IA para
+
+251
+00:06:24.245 --> 00:06:26.505
+fazer a engenharia reversa e recriá-lo.
+
+252
+00:06:26.505 --> 00:06:28.705
+O CEO do Replit comentou:
+
+253
+00:06:28.705 --> 00:06:30.605
+a vantagem deixa de ser o código
+
+254
+00:06:30.605 --> 00:06:32.905
+e passa a ser distribuição e dados.
+
+255
+00:06:32.905 --> 00:06:34.735
+A gente mostrou isso na prática no
+
+256
+00:06:34.735 --> 00:06:36.505
+REA, onde o agente abre um programa
+
+257
+00:06:36.505 --> 00:06:38.205
+sem o código e reconstrói um jogo
+
+258
+00:06:38.205 --> 00:06:39.455
+byte a byte.
+
+259
+00:06:39.455 --> 00:06:39.945
+Dezoito.
+
+260
+00:06:39.945 --> 00:06:42.105
+O ChatGPT ganhou um gravador de reuniões,
+
+261
+00:06:42.105 --> 00:06:43.985
+em beta no Pro e no Business:
+
+262
+00:06:43.985 --> 00:06:45.845
+grava, transcreve e resume.
+
+263
+00:06:45.845 --> 00:06:47.465
+É mais um nicho que os laboratórios
+
+264
+00:06:47.465 --> 00:06:49.305
+estão engolindo, onde hoje estão apps como
+
+265
+00:06:49.305 --> 00:06:49.745
+o Granola.
+
+266
+00:06:49.745 --> 00:06:51.485
+E se você prefere tudo na sua
+
+267
+00:06:51.485 --> 00:06:52.905
+máquina, a gente tem o Ata,
+
+268
+00:06:52.905 --> 00:06:54.695
+um gravador local e aberto.
+
+269
+00:06:54.695 --> 00:06:55.105
+Dezenove.
+
+270
+00:06:55.105 --> 00:06:56.505
+Só cerca de dois por cento das
+
+271
+00:06:56.505 --> 00:06:58.805
+casas americanas pagam por IA.
+
+272
+00:06:58.805 --> 00:06:59.745
+E Madhu Guru,
+
+273
+00:06:59.745 --> 00:07:01.665
+da Meta, diz que o problema é
+
+274
+00:07:01.665 --> 00:07:04.025
+de produto: mesmo quem paga usa pouco,
+
+275
+00:07:04.025 --> 00:07:05.465
+como um Google mais esperto,
+
+276
+00:07:05.465 --> 00:07:07.625
+porque as ferramentas parecem cockpits de avião,
+
+277
+00:07:07.625 --> 00:07:09.065
+com centenas de botões.
+
+278
+00:07:09.065 --> 00:07:11.345
+A aposta para os próximos doze meses:
+
+279
+00:07:11.345 --> 00:07:12.705
+produtos feitos para o leigo,
+
+280
+00:07:12.705 --> 00:07:14.545
+enquanto quem já usa bem dispara na
+
+281
+00:07:14.545 --> 00:07:15.175
+frente.
+
+282
+00:07:15.175 --> 00:07:15.545
+Vinte.
+
+283
+00:07:15.545 --> 00:07:16.485
+E o caso do fim.
+
+284
+00:07:16.485 --> 00:07:19.065
+Um desenvolvedor fez com IA,
+
+285
+00:07:19.065 --> 00:07:19.845
+em pouco tempo,
+
+286
+00:07:19.845 --> 00:07:21.885
+um site para acompanhar a apuração de
+
+287
+00:07:21.885 --> 00:07:22.445
+uma eleição.
+
+288
+00:07:22.445 --> 00:07:24.508
+Na noite, foram cento e quarenta e
+
+289
+00:07:24.508 --> 00:07:26.125
+três mil pessoas ao mesmo tempo,
+
+290
+00:07:26.125 --> 00:07:27.925
+cerca de um milhão de pessoas diferentes
+
+291
+00:07:27.925 --> 00:07:30.585
+e três milhões e seiscentas mil visitas.
+
+292
+00:07:30.585 --> 00:07:32.785
+A curva aparecia antes da apuração da
+
+293
+00:07:32.785 --> 00:07:33.225
+TV.
+
+294
+00:07:33.225 --> 00:07:34.865
+É o que estão chamando de flipar
+
+295
+00:07:34.865 --> 00:07:37.325
+tokens: lançar apps baratos e rápidos,
+
+296
+00:07:37.325 --> 00:07:38.885
+até um deles estourar.
+
+297
+00:07:38.885 --> 00:07:41.525
+Resumindo: as ferramentas estão virando artefatos dentro
+
+298
+00:07:41.525 --> 00:07:43.405
+do chat, os agentes rodam sozinhos com
+
+299
+00:07:43.405 --> 00:07:44.305
+skill e horário,
+
+300
+00:07:44.305 --> 00:07:46.085
+e quem lança rápido colhe.
+
+301
+00:07:46.085 --> 00:07:48.065
+Escolha uma destas vinte e teste hoje.
+
+302
+00:07:48.065 --> 00:07:49.925
+Os cursos e os projetos abertos que
+
+303
+00:07:49.925 --> 00:07:51.445
+eu citei estão no inema ponto club.
+
+304
+00:07:51.445 --> 00:07:52.565
+Até o próximo.
+

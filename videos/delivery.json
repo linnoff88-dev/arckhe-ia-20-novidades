@@ -1,0 +1,12 @@
+{
+  "completo": {
+    "url": "https://github.com/inematds/ia-20-novidades/releases/download/video-v2.0.0/ia-20-novidades-completo-16x9.mp4",
+    "srt": "https://github.com/inematds/ia-20-novidades/releases/download/video-v2.0.0/ia-20-novidades-completo-16x9.srt",
+    "duration": 472.65
+  },
+  "vertical": {
+    "url": "https://github.com/inematds/ia-20-novidades/releases/download/video-v2.0.0/ia-20-novidades-vertical-9x16.mp4",
+    "srt": "https://github.com/inematds/ia-20-novidades/releases/download/video-v2.0.0/ia-20-novidades-vertical-9x16.srt",
+    "duration": 472.65
+  }
+}
